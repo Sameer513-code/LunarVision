@@ -1,0 +1,9 @@
+torch>=2.1.0
+transformers>=4.40.0
+ultralytics>=8.0.0
+opencv-python
+numpy
+matplotlib
+Pillow
+timm
+streamlit

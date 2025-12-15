@@ -5,6 +5,13 @@ This project detects **lunar craters and boulders** from surface imagery using a
 <img width="719" height="743" alt="Lunar crater detection results" src="https://github.com/user-attachments/assets/59d4c055-b0ee-440f-a01d-abacaa132381" />
 
 ---
+## 🎥 Project Walkthrough Video
+
+This demo video showcases the **final application in action**, highlighting how the system detects lunar craters, visualizes results, and provides additional insights about each detected crater.
+
+👉 Watch the video: [Explanation Video](https://drive.google.com/file/d/1vgFtLRyI8EQzqwBQNo_qzz1L00n-4X5I/view?usp=sharing)
+
+---
 
 ## 🗂️ Project Structure
 
@@ -171,3 +178,4 @@ python -c "import torch, transformers, ultralytics; print('✅ All dependencies 
 
 ## 📞 Contact
 For any doubts, issues, or errors, feel free to contact me at: **sameerchakrawarti513@gmail.com**
+
